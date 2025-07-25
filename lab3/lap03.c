@@ -30,5 +30,6 @@ int main() {
         else
         printf( "%2s" , "#" ) ; 
     } //end for
-    printf( "\n" ) ; return 0 ;
+    printf( "\n" ) ;
+    return 0 ;
 } //end function
