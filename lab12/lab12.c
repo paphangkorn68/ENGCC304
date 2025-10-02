@@ -1,35 +1,43 @@
 #include <stdio.h>
 #include <string.h>
 
-struct Student {                                                    //ประกาศใช้ Structure
+
+
+struct Student {                                                            //ประกาศ Structure
     char Name[20] ;
+    char lName[20] ;
+    char ame[50] ;
     char ID[5] ;
     float ScoreSub1 ;
     float ScoreSub2 ;
     float ScoreSub3 ;
     float ScoreSub4 ;
     float ScoreSub5 ;
-} typedef S ;                                                       //จบ Structure
+} typedef S ;                                                               //จบ Structure
 
-void input() ;                                                      //ประกาศใช้ฟังก์ชัน
+void input() ;                                                              //ประกาศใช่ฟังก์ชัน
 void grade( S Student[] , int ) ;
 
-int main() {                                                        
+int main() {                                                                //เริ่มmain
 
-    input() ;                                                       //เรียกใช้ฟังก์ชั้น input
+    input() ;                                                               //ใช้คำสัง input
 
     return 0 ;
-}                                                                   //จบ main
+}                                                                           //จบ main
 
-void input () {                                                     //ฟังก์ชันเก็บค่าต่างๆใน Structure และ แสดง ผลลับ
+void input () {                                                             //ฟังก์ชันสำหลับ  รับค่า และแสดงค่าต่างๆใน Structure
 
-    int n = 3 , i  ;
-    S Student[i] ;                                                  //ทำให้ Student เป็น arr
+    int n = 3 , i ;
+    S Student[n] ;
+    
 
-    for( i = 0 ; i < n ; i++ ) {                                    //loop สำหลับ แสดง และเก็บค่าต่างๆ ใน Structure
+    for( i = 0 ; i < n ; i++ ) {                                            //Loop1 รับค่าใส่ข้อมูลในตัวแปลใน Structure
         printf( "Student %d \n" , i + 1 ) ;
         printf( "name \n" ) ;
-        scanf( "%s" , &Student[i].Name ) ;
+        scanf( "%s %s" , Student[i].Name , Student[i].lName ) ;
+        strcpy( Student[i].ame , Student[i].Name ) ;
+        strcat( Student[i].ame , " " ) ;
+        strcat( Student[i].ame , Student[i].lName ) ;
         printf( "ID \n" ) ;
         scanf( "%d" , &Student[i].ID[0] ) ;
         printf( "ScoreSub1 \n" ) ;
@@ -43,9 +51,10 @@ void input () {                                                     //ฟัง�
         printf( "ScoreSub5 \n" ) ;
         scanf( "%f" , &Student[i].ScoreSub5 ) ;
         printf( "\n" ) ;
-    }                                                               //จบloop
-    for( i = 0 ; i < n ; i++ ) {                                    //loop สำหลับแสดง ค่าต่างๆ
-        printf( "name: %s\n" , Student[i].Name ) ;
+    }                                                                       //จบLoop1
+
+    for( i = 0 ; i < n ; i++ ) {                                            //Loop2 สำหลับแสดงค่าต่างๆในตัวแปล
+        printf( "name: %s\n" , Student[i].ame ) ;
         printf( "id: %d\n" , Student[i].ID[0] ) ;
         printf( "Scores: %.2f %.2f %.2f %.2f %.2f \n" , 
             Student[i].ScoreSub1 ,
@@ -53,25 +62,24 @@ void input () {                                                     //ฟัง�
             Student[i].ScoreSub3 , 
             Student[i].ScoreSub4 , 
             Student[i].ScoreSub5 ) ;
-            
-        grade(Student, i) ;                                         //ใช่ฟังก์ชัน grade เพื่อหาเกลด และคะแนนเฉลี่ย
+
+        grade(Student, i) ;
         printf( "\n" ) ;
         
-    }                                                               //จบloop
-}
+    }                                                                       //จบLoop2
 
-void grade( S Student[] , int i ) {                                 //ฟังก์ชันหา grade
+}                                                                           //จบฟังก์ชั้น
 
+void grade( S Student[] , int i ) {                                         //ฟังก์ชั้น grade
 
-    char sub1[10] ;
+    char sub1[10] ;                                                         //ประกาศตัวแปล
     char sub2[10] ;
     char sub3[10] ;
     char sub4[10] ;
     char sub5[10] ;
     float av = 0 ;
     
-
-    if( Student[i].ScoreSub1 >=80 ) {                               //ใช้หาเกลดของ วิชาที่1
+    if( Student[i].ScoreSub1 >=80 ) {                                       //if1 ใช้หาเกลด sub1
         strcpy( sub1 , "A" ) ;
     }else if ( Student[i].ScoreSub1 >= 75 ) {
         strcpy( sub1 , "B" ) ;
@@ -90,9 +98,9 @@ void grade( S Student[] , int i ) {                                 //ฟัง�
         strcpy( sub1 , "D" ) ;
     }else{
         strcpy( sub1 , "F" ) ;
-    }
+    }                                                                       //จบif1
 
-    if( Student[i].ScoreSub2 >=80 ) {                               //ใช้หาเกลดของ วิชาที่2
+    if( Student[i].ScoreSub2 >=80 ) {                                       //if2 ใช้หาเกลด sub2
         strcpy( sub2 , "A" ) ;
     }else if ( Student[i].ScoreSub2 >= 75 ) {
         strcpy( sub2 , "B" ) ;
@@ -111,9 +119,9 @@ void grade( S Student[] , int i ) {                                 //ฟัง�
         strcpy( sub2 , "D" ) ;
     }else{
         strcpy( sub2 , "F" ) ;
-    }
+    }                                                                       //จบif2
 
-    if( Student[i].ScoreSub3 >=80 ) {                               //ใช้หาเกลดของ วิชาที่3
+    if( Student[i].ScoreSub3 >=80 ) {                                       //if3 ใช้หาเกลด sub3
         strcpy( sub3 , "A" ) ;
     }else if ( Student[i].ScoreSub3 >= 75 ) {
         strcpy( sub3 , "B" ) ;
@@ -132,9 +140,9 @@ void grade( S Student[] , int i ) {                                 //ฟัง�
         strcpy( sub3 , "D" ) ;
     }else{
         strcpy( sub3 , "F" ) ;
-    }
+    }                                                                       ////จบif3
 
-    if( Student[i].ScoreSub4 >=80 ) {                               //ใช้หาเกลดของ วิชาที่4
+    if( Student[i].ScoreSub4 >=80 ) {                                       //if4 ใช้หาเกลด sub4
         strcpy( sub4 , "A" ) ;
     }else if ( Student[i].ScoreSub4 >= 75 ) {
         strcpy( sub4 , "B" ) ;
@@ -153,9 +161,9 @@ void grade( S Student[] , int i ) {                                 //ฟัง�
         strcpy( sub4 , "D" ) ;
     }else{
         strcpy( sub4 , "F" ) ;
-    }
+    }                                                                       //จบif4
 
-    if( Student[i].ScoreSub5 >=80 ) {                               //ใช้หาเกลดของ วิชาที่5
+    if( Student[i].ScoreSub5 >=80 ) {                                       //if5 ใช้หาเกลด sub5
         strcpy( sub5 , "A" ) ;
     }else if ( Student[i].ScoreSub5 >= 75 ) {
         strcpy( sub5 , "B" ) ;
@@ -174,12 +182,12 @@ void grade( S Student[] , int i ) {                                 //ฟัง�
         strcpy( sub5 , "D" ) ;
     }else{
         strcpy( sub5 , "F" ) ;
-    }
+    }                                                                       //จบif5
 
     av = Student[i].ScoreSub1 + Student[i].ScoreSub2 + Student[i].ScoreSub3 + Student[i].ScoreSub4 + Student[i].ScoreSub5 ;
-    av = av / 5 ;                                                   //หาผลรวมของคะแนนแล้วหาร 5
+    av = av / 5 ;                                                           //ใช้หาค่าเฉลี่ย
     
-    printf("grades %s %s %s %s %s \n",sub1,sub2,sub3,sub4,sub5) ;   //แสดงเกลด ของวิชาต่างๆ
-    printf("Average Scores %.2f \n" , av ) ;                        //แสดงค่าเฉลี่ย
+    printf("grades %s %s %s %s %s \n",sub1,sub2,sub3,sub4,sub5) ;           //ประกาศ คะแนน
+    printf("Average Scores %.2f \n" , av ) ;                                //ประกาศ คะแนนเฉลี่ย
     
-}                                                                   //จบฟังก์ชั่น
+}                                                                           //จบ ฟังก์ชั้น
