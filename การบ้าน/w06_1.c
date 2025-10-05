@@ -10,7 +10,7 @@ int main() {                                                                    
 
 
     printf( "enter number : " ) ;                                                                                       //แสดง enter number
-    while ( scanf( "%d" , &num ) != 1 ) {                                                                               //while ตรวจว่าเป็นตัวเลขหรืไม่
+    while ( scanf( "%d" , &num ) != 1 || num > 999 || num < 0 ) {                                                                               //while ตรวจว่าเป็นตัวเลขหรืไม่
         printf( "number only: " ) ;
         while( getchar() != '\n' ) ;                         
     }                                                                                                                   //จบ while
