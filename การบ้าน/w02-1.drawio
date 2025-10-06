@@ -1,0 +1,369 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="หน้า-1" id="qbVfVx1Os13nbd9LFfXU">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="xjyIu-Zoozx96MlLKGWC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="เริ่มต้น" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="เตรียมอุปกรณ์ครัว\n(กระทะ, ตะหลิว, จาน, มีด, เขียง)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="เตรียมวัตถุดิบ\n(หมูกรอบ, ไข่เยี่ยวม้า, ใบกระเพรา, พริก, กระเทียม, ข้าวสวย)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="ตั้งกระทะให้ร้อน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="ใส่น้ำมันลงกระทะ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="เจียวพริกกับกระเทียมให้หอม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="ใส่หมูกรอบลงไปผัด" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="ใส่ข้าวสวยลงไปผัดรวม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="ปรุงรสด้วยน้ำปลา, น้ำตาล, ซีอิ๊วขาว" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="960" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="ใส่ใบกระเพราลงไปผัดเร็วๆ แล้วปิดไฟ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1070" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="ทอดไข่เยี่ยวม้าให้กรอบ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1190" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="จบการทำงาน" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10" target="11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="11" target="12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="5OUbS2dSLp2YFQhtGRt--26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OUbS2dSLp2YFQhtGRt--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5OUbS2dSLp2YFQhtGRt--26" target="14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OUbS2dSLp2YFQhtGRt--26" value="จัดใส่จานพร้อมเสิร์ฟ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-25" target="xjyIu-Zoozx96MlLKGWC-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-25" value="ทำไข่เยี่ยวม้า" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-26" target="xjyIu-Zoozx96MlLKGWC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-26" value="ทำหมูกลอบ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.463;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-25" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-30" target="xjyIu-Zoozx96MlLKGWC-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-30" value="เริ่มฟังก์ชั้น" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-31" target="xjyIu-Zoozx96MlLKGWC-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;strong&gt;&lt;/strong&gt;&lt;li&gt;&lt;strong&gt;&lt;/strong&gt;&lt;ul&gt;&lt;ul data-pm-slice=&quot;3 3 []&quot; data-tight=&quot;true&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ไข่เป็ด&lt;/strong&gt; (หรือไข่ไก่/ไข่นกกระทา) ,&amp;nbsp;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;น้ำสะอาด&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 1 ลิตร ,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;โซดาไฟ (สำหรับอาหาร)&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 50 กรัม ,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เกลือ&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 50 กรัม ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ภาชนะพลาสติก&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/li&gt;" link="&lt;strong&gt;&lt;/strong&gt;&lt;li&gt;&lt;strong&gt;&lt;/strong&gt;&lt;ul&gt;&lt;strong&gt;ไข่เป็ด&lt;/strong&gt; (หรือไข่ไก่/ไข่นกกระทา)&#xa;&lt;li&gt;&lt;strong&gt;น้ำสะอาด&lt;/strong&gt; 1 ลิตร&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;โซดาไฟ (สำหรับอาหาร)&lt;/strong&gt; 50 กรัม&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;เกลือ&lt;/strong&gt; 50 กรัม&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;ภาชนะพลาสติก&lt;/strong&gt; (ห้ามใช้แก้ว เพราะโซดาไฟกัดกร่อน)&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;ถุงมือพลาสติกแบบใช้ครั้งเดียว&lt;/strong&gt;&lt;/li&gt;&#xa;&lt;/ul&gt;&#xa;&lt;p&gt;🧪 ขั้นตอนการทำ&lt;/p&gt;&#xa;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;ผสมโซดาไฟ เกลือ และน้ำสะอาด&lt;/strong&gt; ในภาชนะพลาสติก โดยสวมถุงมือขณะทำเพื่อความปลอดภัย&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;วางไข่ลงในน้ำด่าง&lt;/strong&gt; ที่ผสมไว้ โดยให้ไข่จมทั้งหมด (ทำได้ครั้งละ 20–25 ฟอง)&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;ปิดฝาให้สนิท&lt;/strong&gt; แล้วหมักไว้ที่อุณหภูมิห้องเป็นเวลา &lt;strong&gt;3 สัปดาห์&lt;/strong&gt;&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;ตรวจสอบความแข็งของไข่ขาว&lt;/strong&gt; โดยตอกไข่ 1 ฟอง หากแข็งตัวดีแล้วให้เทน้ำทิ้ง ล้างไข่ให้สะอาด&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;ตากไข่ให้แห้ง&lt;/strong&gt; อีกประมาณ &lt;strong&gt;7–10 วัน&lt;/strong&gt; หรือจะเคลือบด้วยดินขาวผสมแป้งเปียกเพื่อให้เปลือกเป็นสีชมพูก็ได้&lt;/li&gt;&#xa;&lt;/ol&gt;&#xa;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;ถ้าไข่ขาวยังไม่แข็งตัวดี ให้เพิ่มระยะเวลาในการหมักอีก 1–2 สัปดาห์&lt;/em&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;/p&gt;&#xa;&lt;p&gt;📌 เคล็ดลับเพิ่มเติม&lt;/p&gt;&#xa;&lt;ul&gt;&lt;li&gt;ไม่ควรเก็บไข่เยี่ยวม้าในตู้เย็น เพราะความชื้นจะทำให้รสชาติเปลี่ยน&lt;/li&gt;&#xa;&lt;li&gt;เก็บไว้ในอุณหภูมิห้อง โดยใส่ถุงพลาสติกปิดให้มิดชิด&lt;/li&gt;&#xa;&lt;/ul&gt;&#xa;&lt;p&gt;🧆 เมนูจากไข่เยี่ยวม้า&lt;/p&gt;&#xa;&lt;ul&gt;&lt;li&gt;ยำไข่เยี่ยวม้า&lt;/li&gt;&#xa;&lt;li&gt;ผัดกะเพราไข่เยี่ยวม้า&lt;/li&gt;&#xa;&lt;li&gt;ไข่เยี่ยวม้าทอดกรอบ&lt;/li&gt;&#xa;&lt;li&gt;ต้มยำไข่เยี่ยวม้า&lt;/li&gt;&#xa;&lt;/ul&gt;&#xa;&lt;p&gt;ถ้าอยากดูสูตรแบบละเอียดพร้อมภาพประกอบ ลองดูที่ &lt;a href=&quot;https://www.wongnai.com/food-tips/how-to-make-preserved-egg&quot;&gt;Wongnai&lt;/a&gt; หรือ &lt;a href=&quot;https://www.naibann.com/how-to-make-century-eggs-without-lead/&quot;&gt;ในบ้าน&lt;/a&gt; ก็ได้เลยจ้า&lt;/p&gt;&#xa;&lt;p&gt;อยากให้ช่วยออกแบบแผ่นสรุปขั้นตอนหรือฟลูชาร์ตไว้ใช้สอนนักเรียนไหม?&lt;/p&gt;&#xa;&lt;/li&gt;" id="xjyIu-Zoozx96MlLKGWC-31">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="940" y="-30" width="640" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-32" target="xjyIu-Zoozx96MlLKGWC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-32" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;&lt;strong&gt;ผสมโซดาไฟ เกลือ และน้ำสะอาด&lt;/strong&gt; ในภาชนะพลาสติก&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="70" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-33" target="xjyIu-Zoozx96MlLKGWC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-33" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;&lt;strong&gt;วางไข่ลงในน้ำ&lt;/strong&gt;&amp;nbsp;ที่ผสมไว้ โดยให้ไข่จมทั้งหมด&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="180" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-34" target="xjyIu-Zoozx96MlLKGWC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-34" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;&lt;strong&gt;ปิดฝาให้สนิท&lt;/strong&gt; แล้วหมักไว้ที่อุณหภูมิห้องเป็นเวลา &lt;strong&gt;3 สัปดาห์&lt;/strong&gt;&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="280" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-35" target="xjyIu-Zoozx96MlLKGWC-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-35" value="เอาไข่ออกมาล้าง และตากให้แห้ง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="580" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-36" target="xjyIu-Zoozx96MlLKGWC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-36" target="xjyIu-Zoozx96MlLKGWC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;&lt;strong&gt;ตรวจสอบความแข็งของไข่ขาว แข็งหรือไม่&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="450" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-38" value="ใช่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="540" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-39" value="ไม่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-40" target="xjyIu-Zoozx96MlLKGWC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-40" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;&lt;strong&gt;วางไข่ลงในน้ำ&lt;/strong&gt;&amp;nbsp;ที่ผสมไว้ โดยให้ไข่จมทั้งหมด&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="580" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-42" target="xjyIu-Zoozx96MlLKGWC-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1502.4000244140625" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1670" y="820" />
+              <mxPoint x="1980" y="820" />
+              <mxPoint x="1980" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-42" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;&lt;strong&gt;ปิดฝาให้สนิท&lt;/strong&gt; แล้วหมักไว้ที่อุณหภูมิห้องเป็นเวลา &lt;b&gt;5 วัน&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="700" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-44" target="xjyIu-Zoozx96MlLKGWC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="380" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-48" value="จบ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-50" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-190" width="1293" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-53" target="xjyIu-Zoozx96MlLKGWC-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-53" value="เริ่ม" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="-160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-55" target="xjyIu-Zoozx96MlLKGWC-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-55" value="&lt;ul data-pm-slice=&quot;3 1 []&quot; data-tight=&quot;true&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;สามชั้นหมูติดหนัง&lt;/strong&gt;&amp;nbsp;1 กิโลกรัม ,&amp;nbsp;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เกลือ&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;1 ช้อนโต๊ะ ,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;น้ำส้มสายชู&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;2 ช้อนโต๊ะ ,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;พริกไทยขาวป่น&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;1 ช้อนชา ,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ผงปรุงรส (ถ้าต้องการ)&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;1 ช้อนชา&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-553" y="-20" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-56" target="xjyIu-Zoozx96MlLKGWC-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-56" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:false},&amp;quot;list_item&amp;quot;,null,&amp;quot;bullet_list&amp;quot;,{&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;นำหมูสามชั้นไปต้มในน้ำเดือด 20–30 นาที เพื่อให้เนื้อสุกและหนังนุ่ม&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-553" y="80" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-57" target="xjyIu-Zoozx96MlLKGWC-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-57" target="xjyIu-Zoozx96MlLKGWC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-57" value="หมูเป็นสี่เทาทังหมดแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-474.5" y="250" width="243" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-58" target="xjyIu-Zoozx96MlLKGWC-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-38" y="480" />
+              <mxPoint x="190" y="480" />
+              <mxPoint x="190" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-58" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:false},&amp;quot;list_item&amp;quot;,null,&amp;quot;bullet_list&amp;quot;,{&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;นำหมูสามชั้นไปต้มในน้ำเดือด 5 นาที&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="380" width="343" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-60" value="ไม่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="255" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-63" target="xjyIu-Zoozx96MlLKGWC-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-373" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-67" target="xjyIu-Zoozx96MlLKGWC-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-67" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:false},&amp;quot;list_item&amp;quot;,null,&amp;quot;bullet_list&amp;quot;,{&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;ตักขึ้น พักให้เย็น แล้วใช้ส้อมจิ้มหนังให้ทั่ว&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-471.5" y="510" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-69" value="ใช่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="1190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-70" target="xjyIu-Zoozx96MlLKGWC-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-70" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:false},&amp;quot;list_item&amp;quot;,null,&amp;quot;bullet_list&amp;quot;,{&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;ทาเกลือ พริกไทย และผงปรุงรสเฉพาะด้านเนื้อ&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-496.5" y="620" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-71" target="xjyIu-Zoozx96MlLKGWC-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-71" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:false},&amp;quot;list_item&amp;quot;,null,&amp;quot;bullet_list&amp;quot;,{&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;วางหมูในตะแกรง ผึ่งลมหรือแช่ตู้เย็นช่องธรรมดา 6–12 ชั่วโมง&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-526.5" y="720" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-72" target="xjyIu-Zoozx96MlLKGWC-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-72" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null,&amp;quot;bullet_list&amp;quot;,{&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;วางหมูบนตะแกรง หนังหงายขึ้น ใต้ตะแกรงรองด้วยถาดน้ำ&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-566.5" y="820" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-73" target="xjyIu-Zoozx96MlLKGWC-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-73" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;&lt;strong&gt;อบ 40 นาที&lt;/strong&gt; แล้วเพิ่มอุณหภูมิเป็น 220°C&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-461.5" y="910" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-74" target="xjyIu-Zoozx96MlLKGWC-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-74" target="xjyIu-Zoozx96MlLKGWC-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-74" value="หมูแห้งหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1060.95" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-75" target="xjyIu-Zoozx96MlLKGWC-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="1249.95" />
+              <mxPoint x="-30" y="1249.95" />
+              <mxPoint x="-30" y="1020.95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-75" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;&lt;strong&gt;อบ 40 นาที&lt;/strong&gt; แล้วเพิ่มอุณหภูมิเป็น 220°C&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1169.95" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-77" target="xjyIu-Zoozx96MlLKGWC-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="1000.95" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-81" value="ไม่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-176.5" y="990" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-82" target="xjyIu-Zoozx96MlLKGWC-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-82" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;ตั้งน้ำมันให้ร้อน&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-84" target="xjyIu-Zoozx96MlLKGWC-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-84" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;ทอดด้านหนังลงก่อนจนพองกรอบ&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-86" target="xjyIu-Zoozx96MlLKGWC-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-86" target="xjyIu-Zoozx96MlLKGWC-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-86" value="หนังกรอบหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-88" target="xjyIu-Zoozx96MlLKGWC-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-88" value="เอาตะหริวขูดหนัง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-91" target="xjyIu-Zoozx96MlLKGWC-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="1810" />
+              <mxPoint x="-100" y="1810" />
+              <mxPoint x="-100" y="1495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-91" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;ทอดด้านหนังลงก่อนจนพองกรอบ&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-93" target="xjyIu-Zoozx96MlLKGWC-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="1480" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-98" value="ใช่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1710" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-101" value="ไม่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-273.5" y="1640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-102" target="xjyIu-Zoozx96MlLKGWC-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-102" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1,&amp;quot;tight&amp;quot;:true},&amp;quot;list_item&amp;quot;,null]&quot;&gt;พักให้สะเด็ดน้ำมัน&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-104" target="xjyIu-Zoozx96MlLKGWC-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-104" value="หั่นใสจาร" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-106" value="จบ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="2020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-112" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-230" width="930" height="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="xjyIu-Zoozx96MlLKGWC-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.003;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xjyIu-Zoozx96MlLKGWC-26" target="xjyIu-Zoozx96MlLKGWC-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
