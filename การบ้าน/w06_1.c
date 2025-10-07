@@ -27,8 +27,12 @@ int main() {                                                                    
         num = num % 10 ;
     }else if ( num >= 10 ) {                                                                                            //ถ้า num >= 10 ให้แสดง ten ในตำแน่งที่หาได้
         printf( "%s " , ten[ num - 10 ] ) ;
-    }else if ( num > 0 ) {
+        return 0 ;
+    }
+    if ( num > 0 ) {
         printf( "%s " , one[ num ] ) ;                                                                                  //ถ้า num > 0 ให้แสดง one ในตำแน่งที่หาได้
+    }else{
+        printf( " " ) ;
     }
     
     return 0 ;
